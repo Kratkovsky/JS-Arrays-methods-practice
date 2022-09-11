@@ -28,3 +28,8 @@ const endArray = [1, 2, 3];
 endArray.unshift(4, 5, 6);
 
 console.log(endArray);
+
+// 5. Дан массив ['js', 'css', 'jq']. Выведите на экран первый элемент и удалите его.
+
+const ar = ['js', 'css', 'jq'];
+const shiftAr = ar.shift();
