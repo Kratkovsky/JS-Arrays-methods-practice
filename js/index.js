@@ -33,3 +33,11 @@ console.log(endArray);
 
 const ar = ['js', 'css', 'jq'];
 const shiftAr = ar.shift();
+
+// 6.  Дан массив ['js', 'css', 'jq']. Выведите на экран последний элемент и удалите его .
+
+const a = ['js', 'css', 'jq'];
+const popA = a.pop();
+
+//  7.
+
