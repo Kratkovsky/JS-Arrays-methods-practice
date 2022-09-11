@@ -18,6 +18,13 @@ console.log(array);
 // 3.  Дан массив [1, 2, 3]. Добавьте ему в конец элементы 4, 5, 6.
 
 const startArray = [1, 2, 3]
-newArray.push(4, 5, 6);
+startArray.push(4, 5, 6);
 
-console.log(newArray);
+console.log(startArray);
+
+// 4. Дан массив [1, 2, 3]. Добавьте ему в начало элементы 4, 5, 6.
+
+const endArray = [1, 2, 3];
+endArray.unshift(4, 5, 6);
+
+console.log(endArray);
