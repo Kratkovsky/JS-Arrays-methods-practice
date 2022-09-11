@@ -15,4 +15,9 @@ array.reverse();
 console.log(array);
 
 
-// 3. 
+// 3.  Дан массив [1, 2, 3]. Добавьте ему в конец элементы 4, 5, 6.
+
+const startArray = [1, 2, 3]
+newArray.push(4, 5, 6);
+
+console.log(newArray);
